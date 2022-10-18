@@ -8,7 +8,7 @@ Real-world data rarely comes clean. Using Python and its libraries, you will gat
 
 ### Project Details
 
-Your tasks in this project are as follows:
+My tasks in this project are as follows:
 
 Data wrangling, which consists of:
 
